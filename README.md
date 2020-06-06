@@ -1,6 +1,6 @@
 ## link :
 
-https://frosty-payne-309908.netlify.app/
+https://cataclysm-predictor-2020.netlify.app
 
 ## project :
 
